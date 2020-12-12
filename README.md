@@ -1,1 +1,2 @@
 # Project-2
+In this project we aim to examine the effect of COVID-19 cases to house prices in the United States. We have three files we are working with. Our first file is from Zillow, it has data about the house prices together with the counties, areas, and dates. The second one is the number of COVID cases in the US. The third file has all the states, counties and county fips. We have the third file to help us merge files through the fips.
